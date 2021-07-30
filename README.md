@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishu950&label=Profile%20views&color=0e75b6&style=flat" alt="ishu950" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishu950" alt="ishu950" /></a> </p>
-
 - 🔭 I’m currently working on **Data Structure & Algorithm .**
 
 - 🌱 I’m currently learning **Competitive Programming.**
