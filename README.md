@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **Competitive Programming.**
 
+<img align ="right" alt ="coding" width ="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - 📫 How to reach me **ishu.1822en1059@kiet.edu**
 
 <h3 align="left">Connect with me:</h3>
